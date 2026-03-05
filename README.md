@@ -20,14 +20,30 @@ Building scalable cloud-native applications and intelligent systems.
 
 ---
 
-## 🛠 Tech Stack ### 💻 Languages [![Languages](https://skillicons.dev/icons?i=java,js,ts)](https://skillicons.dev) ### ⚙️ Backend [![Backend](https://skillicons.dev/icons?i=spring,nodejs)](https://skillicons.dev) ### 🎨 Frontend [![Frontend](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev) ### 🤖 AI / GenAI ![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-green?style=for-the-badge&logo=openai) ![Claude](https://img.shields.io/badge/Claude-Anthropic-purple?style=for-the-badge) ![Gemini](https://img.shields.io/badge/Gemini-Google-blue?style=for-the-badge&logo=google) ### ☁️ Cloud & DevOps [![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes)](https://skillicons.dev) ### 🗄️ Databases [![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev) ### 🛠 Tools [![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode)](https://skillicons.dev)
+## 🛠 Tech Stack
 
-**Tools**
+### 💻 Languages
+[![Languages](https://skillicons.dev/icons?i=java,js,ts)](https://skillicons.dev)
 
-![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
-![VSCode](https://img.shields.io/badge/VSCode-blue?style=flat&logo=visualstudiocode)
+### ⚙️ Backend
+[![Backend](https://skillicons.dev/icons?i=spring,nodejs)](https://skillicons.dev)
+
+### 🎨 Frontend
+[![Frontend](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev)
+
+### 🤖 AI / GenAI
+![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-green?style=for-the-badge&logo=openai)
+![Claude](https://img.shields.io/badge/Claude-Anthropic-purple?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-Google-blue?style=for-the-badge&logo=google)
+
+### ☁️ Cloud & DevOps
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes)](https://skillicons.dev)
+
+### 🗄️ Databases
+[![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
+
+### 🛠 Tools
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode)](https://skillicons.dev)
 
 ---
 
