@@ -47,24 +47,49 @@ Goal: **Build the most intelligent AI fashion recommendation platform.**
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge\&logo=springboot)
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
+![Spring Security](https://img.shields.io/badge/Spring-Security-darkgreen?style=for-the-badge\&logo=spring)
+![API Gateway](https://img.shields.io/badge/API-Gateway-blue?style=for-the-badge)
 
 ### 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 ![Material UI](https://img.shields.io/badge/MUI-blue?style=for-the-badge\&logo=mui)
 ![Framer Motion](https://img.shields.io/badge/FramerMotion-black?style=for-the-badge)
 
-### 🤖 AI / Cloud
+### 🤖 AI / GenAI
+
+![GenAI](https://img.shields.io/badge/Generative-AI-purple?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-Applications-purple?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Systems-purple?style=for-the-badge)
+![Vector DB](https://img.shields.io/badge/Vector-Database-black?style=for-the-badge)
+![AI Image Generation](https://img.shields.io/badge/AI-Image--Generation-purple?style=for-the-badge)
+
+### ☁️ Cloud / Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
+![AWS Bedrock](https://img.shields.io/badge/AWS-Bedrock-orange?style=for-the-badge)
 ![GCP](https://img.shields.io/badge/GCP-blue?style=for-the-badge\&logo=googlecloud)
-![GenAI](https://img.shields.io/badge/GenAI-purple?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
+![Serverless](https://img.shields.io/badge/Serverless-Architecture-red?style=for-the-badge)
+
+### 🗄️ Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
+![Vector DB](https://img.shields.io/badge/VectorDB-black?style=for-the-badge)
 
 ### 📱 Mobile
 
 ![React Native](https://img.shields.io/badge/ReactNative-blue?style=for-the-badge\&logo=react)
 ![Expo](https://img.shields.io/badge/Expo-black?style=for-the-badge\&logo=expo)
 ![Android](https://img.shields.io/badge/Android-green?style=for-the-badge\&logo=android)
+
+### 🛠️ Tools
+
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+
 
 ---
 
