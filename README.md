@@ -22,28 +22,48 @@ Building scalable cloud-native applications and intelligent systems.
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-[![Languages](https://skillicons.dev/icons?i=java,js,ts)](https://skillicons.dev)
+**Languages**
 
-### ⚙️ Backend
-[![Backend](https://skillicons.dev/icons?i=spring,nodejs)](https://skillicons.dev)
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript)
 
-### 🎨 Frontend
-[![Frontend](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev)
+**Backend**
 
-### 🤖 AI / GenAI
-![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-green?style=for-the-badge&logo=openai)
-![Claude](https://img.shields.io/badge/Claude-Anthropic-purple?style=for-the-badge)
-![Gemini](https://img.shields.io/badge/Gemini-Google-blue?style=for-the-badge&logo=google)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=flat&logo=springboot)
+![Node.js](https://img.shields.io/badge/Node.js-darkgreen?style=flat&logo=node.js)
 
-### ☁️ Cloud & DevOps
-[![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes)](https://skillicons.dev)
+**Frontend**
 
-### 🗄️ Databases
-[![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
+![React](https://img.shields.io/badge/React-blue?style=flat&logo=react)
+![HTML](https://img.shields.io/badge/HTML-orange?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3)
 
-### 🛠 Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode)](https://skillicons.dev)
+**AI / GenAI**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-green?style=flat&logo=openai)
+![Claude](https://img.shields.io/badge/Claude-Anthropic-purple?style=flat)
+![Gemini](https://img.shields.io/badge/Gemini-Google-blue?style=flat&logo=google)
+
+**Cloud / DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-orange?style=flat&logo=amazonaws)
+![GCP](https://img.shields.io/badge/GCP-blue?style=flat&logo=googlecloud)
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=flat&logo=kubernetes)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=flat&logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=flat&logo=mongodb)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-red?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
+![VSCode](https://img.shields.io/badge/VSCode-blue?style=flat&logo=visualstudiocode)
 
 ---
 
