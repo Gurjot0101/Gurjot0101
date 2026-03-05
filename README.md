@@ -26,17 +26,22 @@ Passionate about creating intelligent tools that solve real-world problems.
 
 ### 👔 OccasionWear AI
 
-An AI-powered fashion assistant that helps users choose the best outfits for different occasions.
+An **AI-powered fashion assistant** that helps users choose the best outfits for different occasions using intelligent recommendations.
+
+🚧 **Status:** Work in Progress
+📱 **Planned Release:** App Store & Play Store
 
 **Key Features**
 
 🤖 AI chat for fashion recommendations
 📸 Upload outfit photos for smart analysis
-👔 Compare outfits with AI suggestions
+👔 Compare outfits with AI-powered suggestions
 🧑‍🎨 Generate outfit previews on virtual models
 🎯 Occasion-based styling (wedding, casual, business, parties)
 
-Goal: **Build the most intelligent AI fashion recommendation platform.**
+**Goal**
+
+Build the **most intelligent AI fashion recommendation platform** that helps users confidently choose the perfect outfit for any occasion.
 
 ---
 
