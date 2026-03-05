@@ -1,145 +1,114 @@
-# 👋 Hi, I'm Gurjot Singh
+<h1 align="center">Hi 👋, I'm Gurjot Singh</h1>
 
-🚀 **Cloud-Native Full-Stack Engineer | Java • Spring Boot • React | GenAI | AWS Certified Developer**
-
-Cloud-native full-stack engineer building scalable and secure applications using **Java, Spring Boot, React, PostgreSQL, and AWS**.
-
-Experienced in designing **authentication systems, microservices architectures, and high-performance APIs** with strong focus on reliability, scalability, and user experience.
-
-Currently building **Generative AI applications using AWS Bedrock and serverless architectures.**
-
----
-
-# 🔥 Current Project
-
-## 👔 OccasionWear AI
-
-An **AI-powered fashion assistant** that helps users choose the best outfits for different occasions using intelligent recommendations.
-
-![Status](https://img.shields.io/badge/Status-Work%20In%20Progress-yellow)
-![Platform](https://img.shields.io/badge/Platform-iOS%20%7C%20Android-blue)
-![AI](https://img.shields.io/badge/AI-GenAI-purple)
-
-### 🚧 Status
-
-Work in Progress
-
-### 📱 Planned Release
-
-App Store & Play Store
-
-### ✨ Key Features
-
-* 🤖 AI chat for fashion recommendations
-* 📸 Upload outfit photos for smart analysis
-* 👔 Compare outfits with AI-powered suggestions
-* 🧑‍🎨 Generate outfit previews on virtual models
-* 🎯 Occasion-based styling (wedding, casual, business, parties)
-
-### 🎯 Goal
-
-Build the **most intelligent AI fashion recommendation platform** that helps users confidently choose the perfect outfit for any occasion.
-
----
-
-# 🧠 Tech Stack
-
-## 💻 Backend
-
-![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge\&logo=springboot)
-![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
-![Spring Security](https://img.shields.io/badge/Spring-Security-darkgreen?style=for-the-badge\&logo=spring)
-![API Gateway](https://img.shields.io/badge/API-Gateway-blue?style=for-the-badge)
-
-## 🎨 Frontend
-
-![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
-![Material UI](https://img.shields.io/badge/MUI-blue?style=for-the-badge\&logo=mui)
-![Framer Motion](https://img.shields.io/badge/FramerMotion-black?style=for-the-badge)
-
-## 🤖 AI / GenAI
-
-![GenAI](https://img.shields.io/badge/Generative-AI-purple?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-Applications-purple?style=for-the-badge)
-![RAG](https://img.shields.io/badge/RAG-Systems-purple?style=for-the-badge)
-![Vector DB](https://img.shields.io/badge/Vector-Database-black?style=for-the-badge)
-![AI Image Generation](https://img.shields.io/badge/AI-Image--Generation-purple?style=for-the-badge)
-
-## ☁️ Cloud / Infrastructure
-
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
-![AWS Bedrock](https://img.shields.io/badge/AWS-Bedrock-orange?style=for-the-badge)
-![GCP](https://img.shields.io/badge/GCP-blue?style=for-the-badge\&logo=googlecloud)
-![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
-![Serverless](https://img.shields.io/badge/Serverless-Architecture-red?style=for-the-badge)
-
-## 🗄️ Database
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
-![Amazon Aurora](https://img.shields.io/badge/Amazon-Aurora-orange?style=for-the-badge\&logo=amazonaws)
-
-## 📱 Mobile
-
-![React Native](https://img.shields.io/badge/ReactNative-blue?style=for-the-badge\&logo=react)
-![Expo](https://img.shields.io/badge/Expo-black?style=for-the-badge\&logo=expo)
-![Android](https://img.shields.io/badge/Android-green?style=for-the-badge\&logo=android)
-
-## 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
-![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
-![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge\&logo=postman)
-
----
-
-# 🚀 What I Love Building
-
-* 🤖 AI-powered applications
-* ⚡ Scalable backend systems
-* 📊 Intelligent recommendation engines
-* 🎨 Modern responsive UI
-* ☁️ Cloud-native architectures
-
----
-
-# ⚡ Engineering Focus
-
-• Cloud-native architecture
-• Microservices design
-• Secure authentication systems
-• High-performance APIs
-• Serverless applications
-• GenAI and LLM applications
-• Scalable backend systems
-
----
-
-# 📊 GitHub Stats
+<h3 align="center">
+Full-Stack Developer | Java • Spring Boot • React | GenAI | Cloud
+</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gurjot0101&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gurjot0101&layout=compact&theme=tokyonight" />
-  <img src="https://streak-stats.demolab.com/?user=Gurjot0101&theme=tokyonight" />
+Building scalable cloud-native applications and intelligent systems.
 </p>
 
 ---
 
-# 💡 Philosophy
+## 🚀 About Me
 
-> Build technology that people actually use.
-
-Focus on **practical AI solutions, clean architecture, and scalable systems.**
-
----
-
-# 🌍 Vision
-
-To build **AI products that feel natural, useful, and impactful in everyday life.**
+• 💻 Full-Stack Engineer specializing in **Java, Spring Boot, and React**  
+• ☁️ Experienced with **AWS cloud architecture & serverless systems**  
+• 🤖 Currently working on **Generative AI applications using AWS Bedrock**  
+• 🔐 Strong focus on **security, authentication, and scalable APIs**  
+• 📈 Passionate about building **high-performance and reliable systems**
 
 ---
 
-⭐ Always exploring **AI, cloud architecture, and innovative product ideas.**
+## 🛠 Tech Stack
+
+### Languages
+[![My Skills](https://skillicons.dev/icons?i=java,js)](https://skillicons.dev)
+
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=spring,nodejs)](https://skillicons.dev)
+
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+
+### Cloud & DevOps
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker)](https://skillicons.dev)
+
+### Databases
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+
+---
+
+## ⚡ Core Expertise
+
+• Microservices Architecture  
+• REST API Design  
+• Authentication & Authorization (JWT, Cognito)  
+• Serverless Systems (Lambda)  
+• Distributed Systems  
+• Performance Optimization  
+• Asynchronous Processing  
+• Cloud Architecture
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gurjot0101&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gurjot0101&layout=compact&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Gurjot0101&theme=tokyonight"/>
+</p>
+
+---
+
+## 🧠 Current Focus
+
+• Generative AI applications  
+• Cloud-native microservices  
+• High-performance backend systems  
+• Scalable SaaS architecture
+
+---
+
+## 🚀 Featured Project
+
+### OccasionWear AI
+
+AI-powered fashion assistant that recommends outfits for different occasions.
+
+Features:
+- AI chat interface for outfit recommendations
+- Image upload for fashion comparison
+- AI-generated outfit visualization
+- Smart occasion-based recommendations
+
+Tech Stack:
+
+React • Spring Boot • AI APIs • Cloud Deployment
+
+---
+
+## 🏆 Certifications
+
+**AWS Certified Developer – Associate**
+
+---
+
+## 📫 Connect With Me
+
+LinkedIn  
+https://linkedin.com/in/gurjot0101
+
+GitHub  
+https://github.com/Gurjot0101
+
+Email  
+gurjot78885@gmail.com
+
+---
+
+⭐ From [Gurjot0101](https://github.com/Gurjot0101)
