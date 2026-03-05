@@ -22,20 +22,26 @@ Building scalable cloud-native applications and intelligent systems.
 
 ## 🛠 Tech Stack
 
-### Languages
-[![My Skills](https://skillicons.dev/icons?i=java,js)](https://skillicons.dev)
+### 💻 Languages
+[![Languages](https://skillicons.dev/icons?i=java,js,ts)](https://skillicons.dev)
 
-### Backend
-[![My Skills](https://skillicons.dev/icons?i=spring,nodejs)](https://skillicons.dev)
+### ⚙️ Backend
+[![Backend](https://skillicons.dev/icons?i=spring,nodejs)](https://skillicons.dev)
 
-### Frontend
-[![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
+### 🎨 Frontend
+[![Frontend](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev)
 
-### Cloud & DevOps
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,docker)](https://skillicons.dev)
+### 🤖 AI / GenAI
+[![AI](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
-### Databases
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+### ☁️ Cloud & DevOps
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,vercel)](https://skillicons.dev)
+
+### 🗄️ Databases
+[![Database](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+
+### 🛠 Tools
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode)](https://skillicons.dev)
 
 ---
 
