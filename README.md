@@ -32,10 +32,12 @@ Building scalable cloud-native applications and intelligent systems.
 [![Frontend](https://skillicons.dev/icons?i=react,html,css)](https://skillicons.dev)
 
 ### 🤖 AI / GenAI
-[![AI](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-OpenAI-green?style=for-the-badge&logo=openai)
+![Claude](https://img.shields.io/badge/Claude-Anthropic-purple?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-Google-blue?style=for-the-badge&logo=google)
 
 ### ☁️ Cloud & DevOps
-[![Cloud](https://skillicons.dev/icons?i=aws,lambda,gcp,docker,kubernetes)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes)](https://skillicons.dev)
 
 ### 🗄️ Databases
 [![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
