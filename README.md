@@ -35,10 +35,10 @@ Building scalable cloud-native applications and intelligent systems.
 [![AI](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 ### ☁️ Cloud & DevOps
-[![Cloud](https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,vercel)](https://skillicons.dev)
+[![Cloud](https://skillicons.dev/icons?i=aws,lambda,gcp,docker,kubernetes)](https://skillicons.dev)
 
 ### 🗄️ Databases
-[![Database](https://skillicons.dev/icons?i=postgres,mysql)](https://skillicons.dev)
+[![Database](https://skillicons.dev/icons?i=postgres,mysql,mongodb)](https://skillicons.dev)
 
 ### 🛠 Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode)](https://skillicons.dev)
