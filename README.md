@@ -1,33 +1,18 @@
-<!--
-**Gurjot0101/Gurjot0101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # 👋 Hi, I'm Gurjot Singh
 
 🚀 **Cloud-Native Full-Stack Engineer | Java • Spring Boot • React | GenAI | AWS Certified Developer**
 
-Cloud-native full-stack engineer with experience building scalable and secure applications using **Java, Spring Boot, React, PostgreSQL, and AWS**.
+Cloud-native full-stack engineer building scalable and secure applications using **Java, Spring Boot, React, PostgreSQL, and AWS**.
 
-Experienced in designing **authentication systems, microservices architectures, and high-performance APIs** with focus on reliability and performance.
+Experienced in designing **authentication systems, microservices architectures, and high-performance APIs** with strong focus on reliability, scalability, and user experience.
 
-Currently building **GenAI applications using AWS Bedrock and serverless architectures.**
+Currently building **Generative AI applications using AWS Bedrock and serverless architectures.**
 
 ---
 
-## 🔥 Current Project
+# 🔥 Current Project
 
-### 👔 OccasionWear AI
+## 👔 OccasionWear AI
 
 An **AI-powered fashion assistant** that helps users choose the best outfits for different occasions using intelligent recommendations.
 
@@ -57,9 +42,9 @@ Build the **most intelligent AI fashion recommendation platform** that helps use
 
 ---
 
-## 🧠 Tech Stack
+# 🧠 Tech Stack
 
-### 💻 Backend
+## 💻 Backend
 
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge\&logo=openjdk)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-green?style=for-the-badge\&logo=springboot)
@@ -67,14 +52,14 @@ Build the **most intelligent AI fashion recommendation platform** that helps use
 ![Spring Security](https://img.shields.io/badge/Spring-Security-darkgreen?style=for-the-badge\&logo=spring)
 ![API Gateway](https://img.shields.io/badge/API-Gateway-blue?style=for-the-badge)
 
-### 🎨 Frontend
+## 🎨 Frontend
 
 ![React](https://img.shields.io/badge/React-blue?style=for-the-badge\&logo=react)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge\&logo=javascript)
 ![Material UI](https://img.shields.io/badge/MUI-blue?style=for-the-badge\&logo=mui)
 ![Framer Motion](https://img.shields.io/badge/FramerMotion-black?style=for-the-badge)
 
-### 🤖 AI / GenAI
+## 🤖 AI / GenAI
 
 ![GenAI](https://img.shields.io/badge/Generative-AI-purple?style=for-the-badge)
 ![LLM](https://img.shields.io/badge/LLM-Applications-purple?style=for-the-badge)
@@ -82,7 +67,7 @@ Build the **most intelligent AI fashion recommendation platform** that helps use
 ![Vector DB](https://img.shields.io/badge/Vector-Database-black?style=for-the-badge)
 ![AI Image Generation](https://img.shields.io/badge/AI-Image--Generation-purple?style=for-the-badge)
 
-### ☁️ Cloud / Infrastructure
+## ☁️ Cloud / Infrastructure
 
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge\&logo=amazonaws)
 ![AWS Bedrock](https://img.shields.io/badge/AWS-Bedrock-orange?style=for-the-badge)
@@ -90,48 +75,50 @@ Build the **most intelligent AI fashion recommendation platform** that helps use
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge\&logo=vercel)
 ![Serverless](https://img.shields.io/badge/Serverless-Architecture-red?style=for-the-badge)
 
-### 🗄️ Database
+## 🗄️ Database
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge\&logo=postgresql)
-![Vector DB](https://img.shields.io/badge/VectorDB-black?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge\&logo=mysql)
+![Amazon Aurora](https://img.shields.io/badge/Amazon-Aurora-orange?style=for-the-badge\&logo=amazonaws)
 
-### 📱 Mobile
+## 📱 Mobile
 
 ![React Native](https://img.shields.io/badge/ReactNative-blue?style=for-the-badge\&logo=react)
 ![Expo](https://img.shields.io/badge/Expo-black?style=for-the-badge\&logo=expo)
 ![Android](https://img.shields.io/badge/Android-green?style=for-the-badge\&logo=android)
 
-### 🛠️ Tools
+## 🛠️ Tools
 
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge\&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
+![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge\&logo=postman)
 
 ---
 
-## 🚀 What I Love Building
+# 🚀 What I Love Building
 
-🤖 AI-powered applications
-⚡ Scalable backend systems
-📊 Intelligent recommendation engines
-🎨 Modern responsive UI
-☁️ Cloud-native architectures
+* 🤖 AI-powered applications
+* ⚡ Scalable backend systems
+* 📊 Intelligent recommendation engines
+* 🎨 Modern responsive UI
+* ☁️ Cloud-native architectures
 
 ---
 
-## ⚡ Engineering Focus
+# ⚡ Engineering Focus
 
-• Cloud-native architecture  
-• Microservices design  
-• Secure authentication systems  
-• High-performance APIs  
-• Serverless applications  
-• GenAI and LLM applications  
+• Cloud-native architecture
+• Microservices design
+• Secure authentication systems
+• High-performance APIs
+• Serverless applications
+• GenAI and LLM applications
 • Scalable backend systems
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gurjot0101&show_icons=true&theme=tokyonight" />
@@ -141,19 +128,18 @@ Build the **most intelligent AI fashion recommendation platform** that helps use
 
 ---
 
-## 💡 Philosophy
+# 💡 Philosophy
 
 > Build technology that people actually use.
 
-Focus on **practical AI solutions**, clean architecture, and scalable systems.
+Focus on **practical AI solutions, clean architecture, and scalable systems.**
 
 ---
 
-## 🌍 Vision
+# 🌍 Vision
 
 To build **AI products that feel natural, useful, and impactful in everyday life.**
 
 ---
 
 ⭐ Always exploring **AI, cloud architecture, and innovative product ideas.**
-
