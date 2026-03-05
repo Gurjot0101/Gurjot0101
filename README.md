@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm Gurjot Singh
 
-🚀 **Full-Stack Developer | Java • React • GenAI | AWS • GCP**
+🚀 **Cloud-Native Full-Stack Engineer | Java • Spring Boot • React | GenAI | AWS Certified Developer**
 
-I build **AI-powered applications, scalable backend systems, and modern web/mobile experiences.**
-Passionate about creating intelligent tools that solve real-world problems.
+Cloud-native full-stack engineer with experience building scalable and secure applications using **Java, Spring Boot, React, PostgreSQL, and AWS**.
+
+Experienced in designing **authentication systems, microservices architectures, and high-performance APIs** with focus on reliability and performance.
+
+Currently building **GenAI applications using AWS Bedrock and serverless architectures.**
 
 ---
 
@@ -104,7 +107,6 @@ Build the **most intelligent AI fashion recommendation platform** that helps use
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge\&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge\&logo=linux)
 
-
 ---
 
 ## 🚀 What I Love Building
@@ -114,6 +116,18 @@ Build the **most intelligent AI fashion recommendation platform** that helps use
 📊 Intelligent recommendation engines
 🎨 Modern responsive UI
 ☁️ Cloud-native architectures
+
+---
+
+## ⚡ Engineering Focus
+
+• Cloud-native architecture  
+• Microservices design  
+• Secure authentication systems  
+• High-performance APIs  
+• Serverless applications  
+• GenAI and LLM applications  
+• Scalable backend systems
 
 ---
 
