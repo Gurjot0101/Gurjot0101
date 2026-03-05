@@ -119,11 +119,12 @@ Build the **most intelligent AI fashion recommendation platform** that helps use
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gurjot0101\&show_icons=true\&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gurjot0101&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gurjot0101&layout=compact&theme=tokyonight" />
+</p>
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Gurjot0101\&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurjot0101\&layout=compact\&theme=tokyonight)
 
 ---
 
