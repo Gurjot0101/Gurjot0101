@@ -63,13 +63,13 @@ Building scalable cloud-native applications and intelligent systems.
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gurjot0101&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gurjot0101&layout=compact&theme=tokyonight&?update=1" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Gurjot0101&show_icons=true&theme=tokyonight&cache_seconds=0" height="170"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gurjot0101&layout=compact&theme=tokyonight&cache_seconds=0" height="170"/>
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Gurjot0101&theme=tokyonight&?update=1"/>
-</p>
+<img src="https://streak-stats.demolab.com/?user=Gurjot0101&theme=tokyonight&cache_seconds=0"/>
+</p>>
 
 ---
 
