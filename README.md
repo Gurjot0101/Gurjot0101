@@ -68,7 +68,7 @@ Building scalable cloud-native applications and intelligent systems.
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com/?user=Gurjot0101&theme=tokyonight&cache_seconds=0"/>
+<img src="https://streak-stats.demolab.com?user=Gurjot0101&theme=tokyonight&v=2"/>
 </p>>
 
 ---
