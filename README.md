@@ -10,6 +10,24 @@ Building scalable cloud-native applications and intelligent systems.
 
 ---
 
+## 🚀 Featured Project
+
+### OccasionFit AI
+
+AI-powered fashion assistant that recommends outfits for different occasions.
+
+Features:
+- AI chat interface for outfit recommendations
+- Image upload for fashion comparison
+- AI-generated outfit visualization
+- Smart occasion-based recommendations
+
+Tech Stack:
+
+React • Spring Boot • AI APIs • Cloud Deployment
+
+---
+
 ## 🚀 About Me
 
 • 💻 Full-Stack Engineer specializing in **Java, Spring Boot, and React**  
@@ -79,24 +97,6 @@ Building scalable cloud-native applications and intelligent systems.
 • Cloud-native microservices  
 • High-performance backend systems  
 • Scalable SaaS architecture
-
----
-
-## 🚀 Featured Project
-
-### OccasionWear AI
-
-AI-powered fashion assistant that recommends outfits for different occasions.
-
-Features:
-- AI chat interface for outfit recommendations
-- Image upload for fashion comparison
-- AI-generated outfit visualization
-- Smart occasion-based recommendations
-
-Tech Stack:
-
-React • Spring Boot • AI APIs • Cloud Deployment
 
 ---
 
