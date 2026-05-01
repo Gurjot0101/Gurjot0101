@@ -12,7 +12,7 @@ Building scalable cloud-native applications and intelligent systems.
 
 ## 🚀 Featured Project
 
-### OccasionFit AI
+### OccasionFit AI — Intelligent Fashion Recommendation Platform for iOS & Android (In Development)
 
 AI-powered fashion assistant for Android and iOS that delivers personalized outfit recommendations through an intelligent conversational experience with persistent memory.
 
