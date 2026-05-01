@@ -14,17 +14,19 @@ Building scalable cloud-native applications and intelligent systems.
 
 ### OccasionFit AI
 
-AI-powered fashion assistant that recommends outfits for different occasions.
+AI-powered fashion assistant for Android and iOS that delivers personalized outfit recommendations through an intelligent conversational experience with persistent memory.
 
-Features:
-- AI chat interface for outfit recommendations
-- Image upload for fashion comparison
+Features
+- Intelligent AI chat with conversation memory
+- Personalized outfit recommendations based on occasion, style, and context
+- Persistent chat threads with history
+- Image upload for outfit analysis and comparison
 - AI-generated outfit visualization
-- Smart occasion-based recommendations
+- Multi-modal fashion assistance (text + image + image-analysis)
+- Real-time conversational recommendations
 
 Tech Stack:
-
-React • Spring Boot • AI APIs • Cloud Deployment
+React Native • Spring Boot • Java • MongoDB • JWT Auth • Google Sign-In • AI APIs • Cloud Deployment
 
 ---
 
