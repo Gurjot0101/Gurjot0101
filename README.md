@@ -109,13 +109,16 @@ React Native • Spring Boot • Java • MongoDB • JWT Auth • Google Sign-I
 
 ---
 
-<h2 align="center">📫 Connect With Me</h2>
+## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/gurjot0101">LinkedIn</a> •
-  <a href="https://github.com/Gurjot0101">GitHub</a> •
-  <a href="mailto:gurjot78885@gmail.com">Email</a>
-</p>
+LinkedIn  
+https://linkedin.com/in/gurjot0101
+
+GitHub  
+https://github.com/Gurjot0101
+
+Email  
+gurjot78885@gmail.com
 
 ---
 
