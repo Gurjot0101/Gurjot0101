@@ -109,6 +109,7 @@ React Native • Spring Boot • Java • MongoDB • JWT Auth • Google Sign-I
 
 ---
 
+<h3 align="center">
 ## 📫 Connect With Me
 
 LinkedIn  
@@ -119,6 +120,8 @@ https://github.com/Gurjot0101
 
 Email  
 gurjot78885@gmail.com
+
+</h3>
 
 ---
 
