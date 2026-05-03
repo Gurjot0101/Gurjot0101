@@ -105,6 +105,7 @@ React Native • Spring Boot • Java • MongoDB • JWT Auth • Google Sign-I
 ## 🏆 Certifications
 
 **AWS Certified Developer – Associate**
+**Claude Certified Architect – Foundations**
 
 ---
 
