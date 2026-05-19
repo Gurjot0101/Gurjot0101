@@ -27,7 +27,7 @@ Features
 - Real-time conversational recommendations
 
 Tech Stack:
-React Native • Spring Boot • Java • MongoDB • JWT Auth • Google Sign-In • AI APIs • Cloud Deployment
+React Native • Spring Boot • Java • MongoDB • JWT Auth • Google Sign-In • AI APIs • Agentic AI • Cloud Deployment
 
 ---
 
