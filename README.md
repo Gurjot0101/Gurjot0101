@@ -96,10 +96,11 @@ React Native • Spring Boot • Java • MongoDB • JWT Auth • Google Sign-I
 
 ## 🧠 Current Focus
 
-• Generative AI applications  
+• Generative AI and Agentic AI applications
 • Cloud-native microservices  
 • High-performance backend systems  
 • Scalable SaaS architecture
+• Virtual Threads
 
 ---
 
