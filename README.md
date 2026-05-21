@@ -89,7 +89,7 @@ React Native • Spring Boot • Java • MongoDB • JWT Auth • Google Sign-I
 </p>
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Gurjot0101&theme=tokyonight&v=2"/>
+<img src="https://streak-stats.demolab.com?user=Gurjot0101&theme=tokyonight&v=1"/>
 </p>
 
 ---
