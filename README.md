@@ -72,7 +72,7 @@ React Native • Spring Boot • Java • MongoDB • JWT Auth • Google Sign-I
 
 • Microservices Architecture  
 • REST API Design  
-• Authentication & Authorization (JWT, Cognito)  
+• Authentication & Authorization (JWT, OAuth, Cognito)  
 • Serverless Systems (Lambda)  
 • Distributed Systems  
 • Performance Optimization  
