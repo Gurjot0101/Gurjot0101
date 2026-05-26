@@ -76,7 +76,8 @@ React Native • Spring Boot • Java • MongoDB • JWT Auth • Google Sign-I
 • Serverless Systems (Lambda)  
 • Distributed Systems  
 • Performance Optimization  
-• Asynchronous Processing  
+• Asynchronous Processing
+• Generative AI 
 • Cloud Architecture
 
 ---
