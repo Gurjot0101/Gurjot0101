@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gurjot Singh</h1>
 
 <h3 align="center">
-Full-Stack Developer | Java • Spring Boot • React | GenAI | Cloud
+Full-Stack Developer | Java • Spring Boot • React | Agentic AI | Cloud
 </h3>
 
 <p align="center">
