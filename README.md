@@ -17,14 +17,18 @@ https://github.com/Gurjot0101/Occasion-Fit-Ai
 
 AI-powered fashion assistant for Android and iOS that delivers personalized outfit recommendations through an intelligent conversational experience with persistent memory.
 
+Implemented an agentic AI workflow capable of dynamically selecting tools for outfit analysis, AI image generation, and contextual conversational responses based on user intent.
+
 Features
-- Intelligent AI chat with conversation memory
-- Personalized outfit recommendations based on occasion, style, and context
-- Persistent chat threads with history
-- Image upload for outfit analysis and comparison
-- AI-generated outfit visualization
-- Multi-modal fashion assistance (text + image + image-analysis)
-- Real-time conversational recommendations
+- Multimodal AI assistant supporting text, image upload, and image analysis
+- Agentic tool orchestration for dynamic AI task execution
+- Persistent conversational memory with chat thread management
+- AI-generated outfit visualization and styling suggestions
+- Personalized recommendations based on occasion, style, and user context
+- Redux Toolkit state management with async workflows
+- Real-time conversational UX with typing states and thread persistence
+- RESTful backend APIs with Spring Boot and MongoDB
+- Image handling and contextual recommendation pipeline
 
 Tech Stack:
 React Native • Spring Boot • Java • MongoDB • JWT Auth • Google Sign-In • AI APIs • Agentic AI • Cloud Deployment
