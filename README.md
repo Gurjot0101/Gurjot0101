@@ -82,6 +82,7 @@ React Native • Spring Boot • Java • MongoDB • JWT Auth • Google Sign-I
 • Performance Optimization  
 • Asynchronous Processing
 • Generative AI 
+• Agentic AI 
 • Cloud Architecture
 
 ---
@@ -100,7 +101,7 @@ React Native • Spring Boot • Java • MongoDB • JWT Auth • Google Sign-I
 
 ## 🧠 Current Focus
 
-• Generative AI and Agentic AI applications
+• Agentic AI applications
 • Cloud-native microservices  
 • High-performance backend systems  
 • Scalable SaaS architecture
