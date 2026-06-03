@@ -94,7 +94,7 @@ React Native • Spring Boot • Java • MongoDB • JWT Auth • Google Sign-I
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gurjot0101&layout=compact&theme=tokyonight&cache_seconds=0" height="170"/>
 </p>
 <p align="center">
-[![GitHub Streak](https://streak-stats.vercel.app?user=Gurjot0101&theme=tokyonight)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Gurjot0101&theme=tokyonight"/>
 </p>
 
 ---
