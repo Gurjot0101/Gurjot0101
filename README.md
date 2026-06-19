@@ -12,26 +12,24 @@ Building scalable cloud-native applications and intelligent systems.
 
 ## 🚀 Featured Project
 
-### OccasionFit AI — Intelligent Fashion Recommendation Platform for iOS & Android (In Development)
-https://github.com/Gurjot0101/Occasion-Fit-Ai
+### OccasionFit AI — AI-Powered Outfit Recommendations
+**[github.com/Gurjot0101/occasionfit-ai](https://github.com/Gurjot0101/occasionfit-ai)**
 
-AI-powered fashion assistant for Android and iOS that delivers personalized outfit recommendations through an intelligent conversational experience with persistent memory.
+A full-stack mobile app delivering AI-powered outfit recommendations through a conversational interface, backed by a **planner-based agentic architecture** — a single LLM call generates the full tool execution plan upfront, and the backend orchestrator executes it as a pure, deterministic executor with zero routing logic.
 
-Implemented an agentic AI workflow capable of dynamically selecting tools for outfit analysis, AI image generation, and contextual conversational responses based on user intent.
+**[📲 Try it on Android](https://github.com/Gurjot0101/occasionfit-ai/releases/download/0.0.1/OccasionFit.Ai.v0.0.1.apk)** · *iOS — coming soon*
 
 Features
-- Multimodal AI assistant supporting text, image upload, and image analysis
-- Agentic tool orchestration for dynamic AI task execution
-- Persistent conversational memory with chat thread management
-- AI-generated outfit visualization and styling suggestions
+- Planner-based agentic backend — one LLM call decides the full tool sequence, no per-step re-decisions
+- Multimodal AI: image upload, analysis, comparison, and AI-generated outfit visualization
+- Streaming AI responses with real-time token-by-token display
+- Persistent conversational memory with async-summarized thread context
 - Personalized recommendations based on occasion, style, and user context
+- JWT auth with refresh token rotation, Google Sign-In
 - Redux Toolkit state management with async workflows
-- Real-time conversational UX with typing states and thread persistence
-- RESTful backend APIs with Spring Boot and MongoDB
-- Image handling and contextual recommendation pipeline
 
 Tech Stack:
-React Native • Spring Boot • Java • MongoDB • JWT Auth • Google Sign-In • AI APIs • Agentic AI • Cloud Deployment
+React Native • Spring Boot • Java 21 (Virtual Threads) • MongoDB Atlas • JWT Auth • Google Sign-In • Gemini / Imagen / OpenAI • GCP Cloud Run
 
 ---
 
@@ -111,7 +109,7 @@ React Native • Spring Boot • Java • MongoDB • JWT Auth • Google Sign-I
 
 ## 🏆 Certifications
 
-- **Certified Developer – Associate**
+- **AWS Certified Developer – Associate**
 - **Claude Certified Architect – Foundations**
 
 ---
