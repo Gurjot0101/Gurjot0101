@@ -29,7 +29,7 @@ Features
 - Redux Toolkit state management with async workflows
 
 Tech Stack:
-React Native • Spring Boot • Java 21 (Virtual Threads) • MongoDB Atlas • JWT Auth • Google Sign-In • Gemini / Imagen / OpenAI • GCP Cloud Run
+React Native • Spring Boot • Java 25 (Virtual Threads) • MongoDB Atlas • JWT Auth • Google Sign-In • Gemini / Imagen / OpenAI • GCP Cloud Run
 
 ---
 
