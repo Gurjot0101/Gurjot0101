@@ -77,16 +77,16 @@ React Native • Spring Boot • Java 25 (Virtual Threads) • MongoDB Atlas •
 
 ## ⚡ Core Expertise
 
-• Microservices Architecture  
-• REST API Design  
-• Authentication & Authorization (JWT, OAuth, Cognito)  
-• Serverless Systems (Lambda)  
-• Distributed Systems  
-• Performance Optimization  
-• Asynchronous Processing
-• Generative AI 
-• Agentic AI 
-• Cloud Architecture
+- Microservices Architecture  
+- REST API Design  
+- Authentication & Authorization (JWT, OAuth, Cognito)  
+- Serverless Systems (Lambda)  
+- Distributed Systems  
+- Performance Optimization  
+- Asynchronous Processing
+- Generative AI 
+- Agentic AI 
+- Cloud Architecture
 
 ---
 
@@ -104,11 +104,11 @@ React Native • Spring Boot • Java 25 (Virtual Threads) • MongoDB Atlas •
 
 ## 🧠 Current Focus
 
-• Agentic AI applications
-• Cloud-native microservices  
-• High-performance backend systems  
-• Scalable SaaS architecture
-• Virtual Threads
+- Agentic AI applications
+- Cloud-native microservices  
+- High-performance backend systems  
+- Scalable SaaS architecture
+- Virtual Threads
 
 ---
 
