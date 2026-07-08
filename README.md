@@ -5,25 +5,22 @@ Full-Stack Developer | Java • Spring Boot • React | Agentic AI | Cloud
 </h3>
 
 <p align="center">
-Building scalable cloud-native applications and intelligent systems.
+  Building scalable cloud-native applications and intelligent systems.
 </p>
 
----
-
-## 🌐 Portfolio
-
-**Live Portfolio:** https://gurjot0101-portfolio.vercel.app
-
-Explore my projects, experience, skills, certifications, achievements, and resume in one place.
+<p align="center">
+  <a href="https://gurjot0101-portfolio.vercel.app"><b>🌐 Visit My Portfolio </b></a>
+  - Projects • AI & Cloud Work • Technical Skills • Certifications • Professional Experience
+</p>
 
 ---
 
 ## 🚀 Featured Project
 
 ### OccasionFit AI — AI-Powered Outfit Recommendations
-**[github.com/Gurjot0101/occasionfit-ai](https://github.com/Gurjot0101/occasionfit-ai)**
+**Repository:** [OccasionFit AI](https://github.com/Gurjot0101/occasionfit-ai)
 
-A full-stack mobile app delivering AI-powered outfit recommendations through a conversational interface, backed by a **planner-based agentic architecture** — a single LLM call generates the full tool execution plan upfront, and the backend orchestrator executes it as a pure, deterministic executor with zero routing logic.
+A full-stack application deployed on GCP Cloud Run with a production-ready Spring Boot backend and a React Native mobile client, delivering AI-powered outfit recommendations through a conversational interface using a **planner-based agentic architecture** where a single LLM call generates the complete tool execution plan upfront and the backend orchestrator executes it as a pure, deterministic executor with zero routing logic.
 
 **[📲 Try it on Android](https://github.com/Gurjot0101/occasionfit-ai/releases/download/0.0.1/OccasionFit.Ai.v0.0.1.apk)** · *iOS — coming soon*
 
@@ -43,11 +40,11 @@ React Native • Spring Boot • Java 25 (Virtual Threads) • MongoDB Atlas •
 
 ## 🚀 About Me
 
-• 💻 Full-Stack Engineer specializing in **Java, Spring Boot, and React**  
-• ☁️ Experienced with **AWS cloud architecture & serverless systems**  
-• 🤖 Currently working on **Generative AI applications using AWS Bedrock**  
-• 🔐 Strong focus on **security, authentication, and scalable APIs**  
-• 📈 Passionate about building **high-performance and reliable systems**
+- 💻 Full-Stack Engineer specializing in **Java, Spring Boot, and React**  
+- ☁️ Experienced with **AWS cloud architecture & serverless systems**  
+- 🤖 Currently working on **Generative AI applications using AWS Bedrock**  
+- 🔐 Strong focus on **security, authentication, and scalable APIs**  
+- 📈 Passionate about building **high-performance and reliable systems**
 
 ---
 
@@ -124,14 +121,10 @@ React Native • Spring Boot • Java 25 (Virtual Threads) • MongoDB Atlas •
 
 ## 📫 Connect With Me
 
-LinkedIn  
-https://linkedin.com/in/gurjot0101
-
-GitHub  
-https://github.com/Gurjot0101
-
-Email  
-gurjot78885@gmail.com
+- 🌐 Portfolio: https://gurjot0101-portfolio.vercel.app
+- 💼 LinkedIn: https://linkedin.com/in/gurjot0101
+- 💻 GitHub: https://github.com/Gurjot0101
+- 📧 Email: gurjot78885@gmail.com
 
 ---
 
