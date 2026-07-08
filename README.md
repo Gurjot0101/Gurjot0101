@@ -10,6 +10,13 @@ Building scalable cloud-native applications and intelligent systems.
 
 ---
 
+## 🌐 Portfolio
+
+**Live Portfolio:** https://gurjot0101-portfolio.vercel.app/
+Explore my projects, experience, skills, certifications, achievements, and resume in one place.
+
+---
+
 ## 🚀 Featured Project
 
 ### OccasionFit AI — AI-Powered Outfit Recommendations
