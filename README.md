@@ -22,7 +22,7 @@ Full-Stack Developer | Java • Spring Boot • React | Agentic AI | Cloud
 
 A full-stack application deployed on GCP Cloud Run with a production-ready Spring Boot backend and a React Native mobile client, delivering AI-powered outfit recommendations through a conversational interface using a **planner-based agentic architecture** where a single LLM call generates the complete tool execution plan upfront and the backend orchestrator executes it as a pure, deterministic executor with zero routing logic.
 
-**[📲 Try it on Android](https://github.com/Gurjot0101/occasionfit-ai/releases/download/0.0.1/OccasionFit.Ai.v0.0.1.apk)** · *iOS — coming soon*
+**[📲 Try it on Android](https://github.com/Gurjot0101/occasionfit-ai/releases/download/0.0.1/OccasionFit.Ai.v0.0.1.apk)** · *iOS — soon*
 
 Features
 - Planner-based agentic backend — one LLM call decides the full tool sequence, no per-step re-decisions
