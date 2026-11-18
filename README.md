@@ -93,8 +93,9 @@ React Native • Spring Boot • Java 25 (Virtual Threads) • MongoDB Atlas •
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://ghstats.dev/api/card?username=gurjot0101&theme=midnight_sakura&border_radius=10&hide=prs%2Cissues%2Cavg%2Cfollowers%2Chours" alt="GitHub Stats Card" />
-<img src="https://ghstats.dev/api/langs?username=gurjot0101&theme=midnight_sakura&max_langs=12&layout=donut" alt="Top Languages" />
+<img src="https://ghstats.dev/api/card?username=gurjot0101&theme=midnight_sakura&border_radius=10&hide=prs%2Cissues%2Cavg%2Cfollowers%2Chours" alt="GitHub Stats Card" 
+  width="48%"/>
+<img src="https://ghstats.dev/api/langs?username=gurjot0101&theme=midnight_sakura&max_langs=12&layout=donut" alt="Top Languages" width="48%"/>
 </p>
 <!-- ![GitHub Stats Card](https://ghstats.dev/api/card?username=gurjot0101&theme=midnight_sakura&border_radius=10&hide=prs%2Cissues%2Cavg%2Cfollowers%2Chours) -->
 <!-- <p align="center">
