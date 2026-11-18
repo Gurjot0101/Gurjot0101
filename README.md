@@ -92,9 +92,10 @@ React Native • Spring Boot • Java 25 (Virtual Threads) • MongoDB Atlas •
 
 ## 📊 GitHub Stats
 
-<p align="center">
+![GitHub Stats Card](https://ghstats.dev/api/card?username=gurjot0101&theme=midnight_sakura&border_radius=10&hide=prs%2Cissues%2Cavg%2Cfollowers%2Chours)
+<!-- <p align="center">
   <img src="https://streak-stats.vercel.app?user=Gurjot0101&theme=tokyonight"/>
-</p>
+</p> -->
 
 ---
 
