@@ -93,7 +93,7 @@ React Native • Spring Boot • Java 25 (Virtual Threads) • MongoDB Atlas •
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://streak-stats.vercel.app?user=Gurjot0101&theme=tokyonight"/>
+  <img src="https://streak-stats.vercel.app?user=Gurjot0101&theme=tokyonight"/>
 </p>
 
 ---
